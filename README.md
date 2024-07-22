@@ -7,4 +7,3 @@ Data preparation and Data processing
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Slides][paper-shield]][slides-url]
-[![Thesis][thesis-shield]][thesis-url]
