@@ -5,5 +5,3 @@ Data preparation and Data processing
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Slides][paper-shield]][slides-url]
